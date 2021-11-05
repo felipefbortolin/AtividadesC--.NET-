@@ -1,0 +1,16 @@
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/bin/Debug/net5.0/Exemplo06
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/bin/Debug/net5.0/Exemplo06.deps.json
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/bin/Debug/net5.0/Exemplo06.runtimeconfig.json
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/bin/Debug/net5.0/Exemplo06.runtimeconfig.dev.json
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/bin/Debug/net5.0/Exemplo06.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/bin/Debug/net5.0/ref/Exemplo06.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/bin/Debug/net5.0/Exemplo06.pdb
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/obj/Debug/net5.0/Exemplo06.csproj.AssemblyReference.cache
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/obj/Debug/net5.0/Exemplo06.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/obj/Debug/net5.0/Exemplo06.AssemblyInfoInputs.cache
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/obj/Debug/net5.0/Exemplo06.AssemblyInfo.cs
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/obj/Debug/net5.0/Exemplo06.csproj.CoreCompileInputs.cache
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/obj/Debug/net5.0/Exemplo06.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/obj/Debug/net5.0/ref/Exemplo06.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/obj/Debug/net5.0/Exemplo06.pdb
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo17-Expressoes-lambda-delegates-LINQ/ws-vs2021-cap17/Exemplo06/obj/Debug/net5.0/Exemplo06.genruntimeconfig.cache

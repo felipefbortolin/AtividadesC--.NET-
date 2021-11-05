@@ -1,0 +1,16 @@
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/bin/Debug/net5.0/ExercicioResolvido
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/bin/Debug/net5.0/ExercicioResolvido.deps.json
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/bin/Debug/net5.0/ExercicioResolvido.runtimeconfig.json
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/bin/Debug/net5.0/ExercicioResolvido.runtimeconfig.dev.json
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/bin/Debug/net5.0/ExercicioResolvido.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/bin/Debug/net5.0/ref/ExercicioResolvido.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/bin/Debug/net5.0/ExercicioResolvido.pdb
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/obj/Debug/net5.0/ExercicioResolvido.csproj.AssemblyReference.cache
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/obj/Debug/net5.0/ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/obj/Debug/net5.0/ExercicioResolvido.AssemblyInfoInputs.cache
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/obj/Debug/net5.0/ExercicioResolvido.AssemblyInfo.cs
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/obj/Debug/net5.0/ExercicioResolvido.csproj.CoreCompileInputs.cache
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/obj/Debug/net5.0/ExercicioResolvido.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/obj/Debug/net5.0/ref/ExercicioResolvido.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/obj/Debug/net5.0/ExercicioResolvido.pdb
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/ExercicioResolvido/obj/Debug/net5.0/ExercicioResolvido.genruntimeconfig.cache

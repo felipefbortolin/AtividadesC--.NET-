@@ -1,0 +1,16 @@
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/bin/Debug/net5.0/Exercicio02
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/bin/Debug/net5.0/Exercicio02.deps.json
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/bin/Debug/net5.0/Exercicio02.runtimeconfig.json
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/bin/Debug/net5.0/Exercicio02.runtimeconfig.dev.json
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/bin/Debug/net5.0/Exercicio02.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/bin/Debug/net5.0/ref/Exercicio02.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/bin/Debug/net5.0/Exercicio02.pdb
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/obj/Debug/net5.0/Exercicio02.csproj.AssemblyReference.cache
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/obj/Debug/net5.0/Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/obj/Debug/net5.0/Exercicio02.AssemblyInfoInputs.cache
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/obj/Debug/net5.0/Exercicio02.AssemblyInfo.cs
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/obj/Debug/net5.0/Exercicio02.csproj.CoreCompileInputs.cache
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/obj/Debug/net5.0/Exercicio02.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/obj/Debug/net5.0/ref/Exercicio02.dll
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/obj/Debug/net5.0/Exercicio02.pdb
+/home/felipe/Área de Trabalho/Curso de C#/Capitulo15-Generic-Set-Dictionary/ws-vs2021-cap15/Exercicio02/obj/Debug/net5.0/Exercicio02.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/bin/Debug/netcoreapp3.1/Exercicios02
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/bin/Debug/netcoreapp3.1/Exercicios02.deps.json
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/bin/Debug/netcoreapp3.1/Exercicios02.runtimeconfig.json
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/bin/Debug/netcoreapp3.1/Exercicios02.runtimeconfig.dev.json
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/bin/Debug/netcoreapp3.1/Exercicios02.dll
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/bin/Debug/netcoreapp3.1/Exercicios02.pdb
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/obj/Debug/netcoreapp3.1/Exercicios02.csprojAssemblyReference.cache
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/obj/Debug/netcoreapp3.1/Exercicios02.AssemblyInfoInputs.cache
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/obj/Debug/netcoreapp3.1/Exercicios02.AssemblyInfo.cs
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/obj/Debug/netcoreapp3.1/Exercicios02.csproj.CoreCompileInputs.cache
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/obj/Debug/netcoreapp3.1/Exercicios02.dll
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/obj/Debug/netcoreapp3.1/Exercicios02.pdb
+/home/felipe/Área de Trabalho/Curso de C#/ws-vs2021/Exercicios02/obj/Debug/netcoreapp3.1/Exercicios02.genruntimeconfig.cache
